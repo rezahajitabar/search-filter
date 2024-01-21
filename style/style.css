@@ -79,6 +79,12 @@ justify-content: space-between;
     border-radius: 10px;
 }
 
+.selected{
+    background-color: #fff;
+    border: 2px solid #220efa;
+    color: #220efa;
+}
+
 @media (max-width:1000px) {
     #search{
         display: flex;
